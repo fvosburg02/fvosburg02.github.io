@@ -2,7 +2,7 @@
 
 # About me
 ## My interests 
-    My hobbies are working out. Reading. And music.
+    My hobbies are _working out, reading, and music._
 
 ## Websites I recommend 
     [Google](http://www.google.com)- Google is one of the most used search engines on the web. It is ranked **number one** on the most used websites. It gives every and all information that the user is requesting. From _"what is google?"_ to _"When did the Big Bang happen?"_
